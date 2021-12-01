@@ -43,7 +43,7 @@
 
 
 <p align="center">
-<a href="http://114.55.6.23:8080">毕设测试版 0.0.1</a>
+<a href="https://subtlman.github.io/">个人网站</a>
 </p>
 
 # 目录(善用Ctrl+F)
